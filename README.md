@@ -1,1 +1,1 @@
-This function allows you to pass in the name of any tag and returns a csv to your desktop with all "included" papers that contain that tag. Repo also contains the source csv (covidence_included_all.csv)
+This function allows you to pass in the name of any tag and returns a csv to your desktop with all "included" papers that contain that particular tag. Repo also contains the source csv (covidence_included_all.csv)
